@@ -1,11 +1,18 @@
 {
   "name": "Luggage Blue",
-  "symbol": "LBLUE",
+  "symbol": "LUGG",
+  "description": "Collection of 5 luggage cases on the blockchain. This is the number 4/5, blue case.",
   "image": "3.png",
+  "attributes": [
+    {
+      "trait_type": "size",
+      "value": "7"
+    }
+  ],
   "properties": {
     "files": [
       {
-        "url": "3.png",
+        "uri": "3.png",
         "type": "image/png"
       }
     ],

@@ -1,11 +1,18 @@
 {
   "name": "Luggage Red",
-  "symbol": "LRED",
+  "symbol": "LUGG",
+  "description": "Collection of 5 luggage cases on the blockchain. This is the number 1/5, red case.",
   "image": "0.png",
+  "attributes": [
+    {
+      "trait_type": "size",
+      "value": "5"
+    }
+  ],
   "properties": {
     "files": [
       {
-        "url": "0.png",
+        "uri": "0.png",
         "type": "image/png"
       }
     ],

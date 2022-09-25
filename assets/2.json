@@ -1,11 +1,18 @@
 {
   "name": "Luggage Gradient Indigo",
-  "symbol": "LGRDNI",
+  "symbol": "LUGG",
+  "description": "Collection of 5 luggage cases on the blockchain. This is the number 3/5, indigo gradient case.",
   "image": "2.png",
+  "attributes": [
+    {
+      "trait_type": "size",
+      "value": "2"
+    }
+  ],
   "properties": {
     "files": [
       {
-        "url": "2.png",
+        "uri": "2.png",
         "type": "image/png"
       }
     ],

@@ -1,11 +1,18 @@
 {
   "name": "Luggage Gray",
-  "symbol": "LGRY",
+  "symbol": "LUGG",
+  "description": "Collection of 5 luggage cases on the blockchain. This is the number 5/5, gray case.",
   "image": "4.png",
+  "attributes": [
+    {
+      "trait_type": "size",
+      "value": "5"
+    }
+  ],
   "properties": {
     "files": [
       {
-        "url": "4.png",
+        "uri": "4.png",
         "type": "image/png"
       }
     ],

@@ -1,11 +1,18 @@
 {
   "name": "Luggage Orange",
-  "symbol": "LORNG",
+  "symbol": "LUGG",
+  "description": "Collection of 5 luggage cases on the blockchain. This is the number 2/5, orange case.",
   "image": "1.png",
+  "attributes": [
+    {
+      "trait_type": "size",
+      "value": "8"
+    }
+  ],
   "properties": {
     "files": [
       {
-        "url": "1.png",
+        "uri": "1.png",
         "type": "image/png"
       }
     ],
