@@ -1,0 +1,19 @@
+{
+  "name": "Luggage Gradient Indigo",
+  "symbol": "LGRDNI",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "url": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "F1C2BGFTureNDDGETiGdcbuBDRrpChgeihgzsTc8BcHE",
+        "share": 100
+      }
+    ]
+  }
+}
