@@ -1,6 +1,7 @@
 import React, {useEffect, useState} from "react";
 import "./App.css";
 import twitterLogo from "./assets/twitter-logo.svg";
+import luggageLogo from "./assets/air_luggage.png";
 import CandyMachine from "./CandyMachine"
 
 // Constants
@@ -55,7 +56,13 @@ const App = () => {
 		<div className="App">
 			<div className="container">
 				<div className="header-container">
-					<p className="header">🍭 Candy Drop</p>
+					<img
+						alt="Luggage Logo"
+						width={100} height={100}
+						className="luggage-logo"
+						src={luggageLogo}
+					/>
+					<p className="header">Luggage Drop</p>
 					<p className="sub-text">NFT drop machine with fair mint</p>
 					{!walletAddress && renderNotConnectedContainer()}
 				</div>
